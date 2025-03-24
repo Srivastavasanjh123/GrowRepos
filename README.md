@@ -1,12 +1,32 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Personal Portfolio  
 
-Currently, two official plugins are available:
+## 📌 Task Objectives  
+- Fully responsive portfolio showcasing **projects, skills, and personal details**.  
+- **Modern design** with smooth interactions.  
+- Optimized for **performance & accessibility**.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ How to Run  
+1. Clone & navigate:  
+   ```bash
+   git clone your-repo-link && cd your-project-folder
+   ```
+2. Install dependencies:  
+   ```bash
+   npm install
+   ```
+3. Start development server:  
+   ```bash
+   npm run dev
+   ```
+4. Open `http://localhost:3000/`  
 
-## Expanding the ESLint configuration
+## 📂 Project Structure  
+- `components/` → UI components  
+- `pages/` → Home, Projects, Skills  
+- `styles/` → CSS modules  
+- `public/assets/` → Images & icons  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ⚡ Built with React + Vite  
+Uses **Vite for fast builds** with React plugins like [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react).  
+
